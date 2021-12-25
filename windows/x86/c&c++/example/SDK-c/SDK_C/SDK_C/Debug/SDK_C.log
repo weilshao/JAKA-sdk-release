@@ -1,0 +1,5 @@
+﻿example2_c.obj : error LNK2019: 无法解析的外部符号 _create_handler，函数 _main 中引用了该符号
+example2_c.obj : error LNK2019: 无法解析的外部符号 _power_on，函数 _main 中引用了该符号
+example2_c.obj : error LNK2019: 无法解析的外部符号 _enable_robot，函数 _main 中引用了该符号
+example2_c.obj : error LNK2019: 无法解析的外部符号 _get_robot_status，函数 _main 中引用了该符号
+D:\vs2019ws\SDK-c\SDK_C\Debug\SDK_C.exe : fatal error LNK1120: 4 个无法解析的外部命令

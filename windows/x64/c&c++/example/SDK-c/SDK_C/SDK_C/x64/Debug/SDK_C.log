@@ -1,0 +1,26 @@
+﻿  example2_c.c
+D:\vs2019ws\SDK-c\SDK_C\source\jktypes.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(76,14): warning C4101: “status”: 未引用的局部变量
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(100,14): warning C4101: “status”: 未引用的局部变量
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(293,27): warning C4474: printf: 格式字符串中传递的参数太多
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(293,27): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(312,33): warning C4474: printf: 格式字符串中传递的参数太多
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(312,33): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(460,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(476,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(476,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(476,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“double”
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(476,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“double”
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(476,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“double”
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(476,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 6 拥有了类型“double”
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(635,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(635,9): warning C4313: “printf”: 格式字符串中的“%d”与“char *”类型的参数 1 冲突
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(638,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(638,9): warning C4313: “printf”: 格式字符串中的“%d”与“char *”类型的参数 1 冲突
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(630,7): warning C4101: “demo”: 未引用的局部变量
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(671,7): warning C4101: “mode”: 未引用的局部变量
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(1242,6): warning C4101: “ret”: 未引用的局部变量
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(1258,6): warning C4101: “ret”: 未引用的局部变量
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(1275,6): warning C4101: “ret”: 未引用的局部变量
+D:\vs2019ws\SDK-c\SDK_C\SDK_C\example2_c.c(1292,6): warning C4101: “ret”: 未引用的局部变量
+  SDK_C.vcxproj -> D:\vs2019ws\SDK-c\SDK_C\x64\Debug\SDK_C.exe

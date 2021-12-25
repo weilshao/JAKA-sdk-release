@@ -1,0 +1,13 @@
+﻿  example.cpp
+D:\vs2019ws\sdk_c++\source\JAKAZuRobot.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\vs2019ws\sdk_c++\source\jktypes.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vs2019ws\sdk_c++\source\JAKAZuRobot.h(826): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+example.cpp(156): warning C4101: “dur2”: 未引用的局部变量
+example.cpp(157): warning C4101: “start2”: 未引用的局部变量
+example.cpp(157): warning C4101: “end2”: 未引用的局部变量
+example.cpp(1513): warning C4101: “status”: 未引用的局部变量
+example.cpp(1543): warning C4101: “ret”: 未引用的局部变量
+example.cpp(1577): warning C4101: “ret”: 未引用的局部变量
+example.cpp(1593): warning C4101: “ret”: 未引用的局部变量
+example.cpp(1715): warning C4101: “time”: 未引用的局部变量
+  sdk_c++.vcxproj -> D:\vs2019ws\sdk_c++\x64\Debug\sdk_c++.exe
